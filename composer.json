@@ -1,5 +1,5 @@
 {
-    "name": "medology/zenclient-api",
+    "name": "anuradha-iic/zenclient-api",
     "autoload": {
         "psr-0" : {
             "ApiClient\\" : "src/"
