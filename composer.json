@@ -1,0 +1,8 @@
+{
+    "name": "medology/zenclient-api",
+    "autoload": {
+        "psr-0" : {
+            "ApiClient\\" : "src/"
+        }
+    }
+}
