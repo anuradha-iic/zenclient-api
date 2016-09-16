@@ -1,12 +1,12 @@
 <?php
-namespace ApiClient;
+namespace ZenClient;
 
 /**
 * this is just test class
 */
-class TestHello
+class ZenClient
 {
-    public function sayHello()
+    public function login()
     {
         return 'Hello!';
     }
